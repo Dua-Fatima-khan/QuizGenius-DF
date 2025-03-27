@@ -1,0 +1,78 @@
+[
+    {
+      "question": "What is the correct way to declare a variable in Python?",
+      "options": ["var x = 5", "x = 5", "int x = 5", "declare x = 5"],
+      "answer": "x = 5"
+    },
+    {
+      "question": "Which data type is immutable in Python?",
+      "options": ["List", "Dictionary", "Set", "Tuple"],
+      "answer": "Tuple"
+    },
+    {
+      "question": "What will be the output of print(type(5.0))?",
+      "options": ["int", "float", "double", "str"],
+      "answer": "float"
+    },
+    {
+      "question": "Which keyword is used to define a function in Python?",
+      "options": ["func", "def", "define", "function"],
+      "answer": "def"
+    },
+    {
+      "question": "What is the result of 3 * 2 ** 3?",
+      "options": ["18", "24", "9", "21"],
+      "answer": "24"
+    },
+    {
+      "question": "Which of these is a valid list declaration in Python?",
+      "options": ["list = {1,2,3}", "list = [1,2,3]", "list = (1,2,3)", "list = <1,2,3>"],
+      "answer": "list = [1,2,3]"
+    },
+    {
+      "question": "Which loop is used when the number of iterations is known?",
+      "options": ["while", "for", "do-while", "repeat"],
+      "answer": "for"
+    },
+    {
+      "question": "Which symbol is used for single-line comments in Python?",
+      "options": ["//", "#", "/* */", "--"],
+      "answer": "#"
+    },
+    {
+      "question": "What will be the output of 'print(2 == 2.0)'?",
+      "options": ["True", "False", "None", "Error"],
+      "answer": "True"
+    },
+    {
+      "question": "Which function is used to get input from the user?",
+      "options": ["scanf()", "cin>>", "input()", "read()"],
+      "answer": "input()"
+    },
+    {
+      "question": "What is the correct way to write an infinite loop in Python?",
+      "options": ["while True:", "for True:", "loop forever", "do while"],
+      "answer": "while True:"
+    },
+    {
+      "question": "What does the len() function do?",
+      "options": ["Returns the number of elements in a list", "Calculates sum of numbers", "Finds the maximum value", "Sorts a list"],
+      "answer": "Returns the number of elements in a list"
+    },
+    {
+      "question": "How do you open a file in Python for reading?",
+      "options": ["open('file.txt', 'r')", "open('file.txt', 'w')", "open('file.txt', 'a')", "open('file.txt', 'x')"],
+      "answer": "open('file.txt', 'r')"
+    },
+    {
+      "question": "Which keyword is used for exception handling in Python?",
+      "options": ["catch", "error", "try", "except"],
+      "answer": "try"
+    },
+    {
+      "question": "What will be the output of 'print(10//3)'?",
+      "options": ["3", "3.33", "4", "Error"],
+      "answer": "3"
+    }
+  ]
+  
