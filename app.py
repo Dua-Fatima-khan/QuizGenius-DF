@@ -5,7 +5,7 @@ from datetime import datetime
 
 st.set_page_config(
     page_title="QuizGenius - Python Quiz",
-    page_icon=":🧠",
+    page_icon="🧠",
     layout="wide",
 )
 # Load questions from JSON file
